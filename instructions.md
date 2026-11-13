@@ -1,4 +1,6 @@
 before you make edits: 
+git checkout main
+git pull
 git checkout nelly-branch
 git merge main
 
