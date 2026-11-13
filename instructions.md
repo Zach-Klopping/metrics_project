@@ -1,8 +1,8 @@
 before you make edits: 
-git pull
+git checkout nelly-branch
 
 after you make edits: 
 git add .
 git commit -m 'message about what you did'
-git push
+git push -u origin nelly-branch
 
