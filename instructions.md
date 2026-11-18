@@ -1,7 +1,8 @@
 before you make edits: 
 git checkout main
 git pull
-git checkout nelly-branch
+# git checkout ayden-branch
+# git checkout zach-branch
 git merge main
 
 after you make edits: 
